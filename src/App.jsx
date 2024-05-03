@@ -7,8 +7,8 @@ function App() {
           <div className="size-10 bg-fuchsia-700"></div>
           <div className="size-10 bg-fuchsia-700 flex-1"></div>
         </div>
-        <div className="size-10 bg-[#6C32D2]"></div>
       </div>
+      <div>hello</div>
     </div>
   );
 }
